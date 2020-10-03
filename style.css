@@ -1,0 +1,377 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Baloo Tammudu 2', cursive;
+    flex-wrap: wrap;
+}
+
+.background,
+img {
+    background-color: black;
+    flex-wrap: wrap;
+}
+
+.navbar,
+li,
+a {
+    list-style: none;
+    display: inline;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.navbar,
+li:hover {
+    text-decoration: none;
+    background-color: orangered;
+    font: bold;
+}
+
+.logo,
+img {
+    bottom: 100px;
+}
+
+.navbar,
+li {
+    position: relative;
+    bottom: 460px;
+    color: white;
+    font-size: 1.6rem;
+}
+
+h1 {
+    position: relative;
+    bottom: 360px;
+    color: white;
+    font-size: 5rem;
+}
+
+p {
+    position: relative;
+    bottom: 450px;
+    font-size: 2rem;
+    color: whitesmoke;
+}
+
+.fa {
+    position: relative;
+    bottom: 1430px;
+    color: white;
+    left: 1150px;
+}
+
+.text {
+    position: relative;
+    text-align: center;
+    bottom: 500px;
+    font-size: 2rem;
+}
+
+.port {
+    position: relative;
+    top: -70px;
+    color: black;
+    font-size: 1.1rem;
+    word-wrap: break-word;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.follow {
+    position: relative;
+    color: orangered;
+    text-align: center;
+    bottom: 500px;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.w3-card-4 {
+    position: relative;
+    top: 500px;
+}
+
+.w3-container {
+    position: relative;
+    top: 500px;
+}
+
+.back-img,
+img {
+    top: 50px;
+    left: 40px;
+    margin: auto;
+}
+
+.port-1 {
+    position: absolute;
+    top: 300px;
+    color: black;
+    left: 270px;
+    font-size: 1.1rem;
+    word-wrap: break-word;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.port-2 {
+    position: absolute;
+    top: 300px;
+    color: black;
+    left: 530px;
+    font-size: 1.1rem;
+    word-wrap: break-word;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.port-3 {
+    position: absolute;
+    top: 300px;
+    color: black;
+    left: 795px;
+    font-size: 1.1rem;
+    word-wrap: break-word;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.port-4 {
+    position: absolute;
+    top: 300px;
+    color: black;
+    left: 1055px;
+    font-size: 1.1rem;
+    word-wrap: break-word;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.cointainer,
+button {
+    position: relative;
+    top: 60px;
+    right: 190px;
+    height: 40px;
+    font-family: 'Baloo Tammudu 2', cursive;
+    font-size: 1rem;
+}
+
+button {
+    border: 2px solid orangered;
+}
+
+#threebtn {
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    left: 70px;
+    top: 20px;
+}
+
+#fourbtn {
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    left: 60px;
+    top: 20px;
+}
+
+#fivebtn {
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    right: -340px;
+    top: -20px;
+}
+
+#sixbtn {
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    right: -330px;
+    top: -20px;
+}
+
+#sevenbtn {
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    right: -610px;
+    top: -60px;
+}
+
+#eightbtn {
+    margin: 5px;
+    padding: 5px;
+    position: relative;
+    right: -605px;
+    top: -60px;
+}
+
+
+/*.bed,
+.fas {
+    color: black;
+    position: absolute;
+    top: 850px;
+    left: 90px;
+}
+
+#rooms {
+    position: relative;
+    top: 890px;
+    color: black;
+    font-size: small;
+    left: 185px;
+    top: 864px;
+}
+
+.bath,
+.fas {
+    color: black;
+    position: absolute;
+    top: 850px;
+    left: 200px;
+}
+
+#wash {
+    position: relative;
+    top: 890px;
+    color: black;
+    font-size: small;
+    left: 175px;
+    top: 864px;
+}*/
+
+.city,
+img {
+    background-color: navy;
+}
+
+#orgin {
+    position: relative;
+    bottom: 600px;
+}
+
+#small {
+    position: relative;
+    font-size: 1.2rem;
+    bottom: 670px;
+}
+
+.imran,
+#ten {
+    position: relative;
+    bottom: 680px;
+    margin-left: 10px;
+    font-size: 1.2rem;
+}
+
+.imran,
+#ten,
+a {
+    text-decoration: none;
+}
+
+.imran,
+#eleven {
+    position: relative;
+    bottom: 680px;
+    margin-left: 10px;
+    font-size: 1.2rem;
+}
+
+.imran,
+#eleven,
+a {
+    text-decoration: none;
+}
+
+#ten {
+    text-align: center;
+    left: 5px;
+    border: 2px solid orange;
+}
+
+#eleven {
+    text-align: center;
+    left: 5px;
+    border: 2px solid orange;
+}
+
+#ten:hover {
+    background-color: orange;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+#eleven:hover {
+    background-color: orange;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+}
+
+#pc {
+    position: relative;
+    bottom: 460px;
+}
+
+#activa {
+    color: black;
+    position: relative;
+    bottom: 500px;
+}
+
+.pubg,
+img {
+    bottom: -1200px;
+    justify-content: center;
+    margin: auto;
+}
+
+.pubg,
+img:hover {
+    opacity: 1;
+}
+
+#zafeer {
+    position: relative;
+    text-align: center;
+    bottom: 450px;
+    font-size: 2rem;
+}
+
+#aladdin {
+    position: relative;
+    bottom: 470px;
+}
+
+#lenovo-2 {
+    position: relative;
+    color: black;
+    bottom: 300px;
+    text-align: center;
+}
+
+#chindi {
+    font-size: medium;
+    color: black;
+    position: relative;
+    text-align: center;
+    top: -350px;
+    word-wrap: break-word;
+    font-style: italic;
+    font-size: medium;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.dark {
+    border: 2px black;
+    height: 100px;
+    width: 100px;
+}
